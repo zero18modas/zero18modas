@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Resgate de Cashback - Zero18</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- Favicon geral -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f4f8;
+            color: #333;
+        }
+        header {
+            background-color: #000; /* Preto */
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 5px solid #444; /* Cinza escuro */
+        }
+        img {
+            max-width: 150px;
+            margin-bottom: 10px;
+        }
+        main {
+            padding: 30px;
+            max-width: 800px;
+            margin: 30px auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #000; /* Preto */
+            margin-top: 25px;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 5px;
+            position: relative;
+        }
+        h2::before {
+            content: url('icon-cashback.png'); /* Favicon da seção */
+            width: 24px; 
+            height: 24px; 
+            position: absolute; 
+            left: -30px; 
+            top: 0;
+        }
+        p, ul {
+            line-height: 1.7;
+            margin: 15px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 15px;
+            background-color: #000; /* Preto */
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        button {
+            background-color: #444; /* Cinza escuro */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 15px;
+            cursor: pointer;
+            font-size: 1em;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #333; /* Um tom ainda mais escuro */
+        }
+        @media (max-width: 600px) {
+            main {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="https://via.placeholder.com/150" alt="Logo Zero18">
+    <h1>Política de Resgate de Cashback</h1>
+</header>
+
+<main>
+    <section>
+        <h2>Acúmulo de Cashback</h2>
+        <p>A cada compra realizada na <strong>[Nome da Sua Empresa]</strong>, 10% do valor gasto é convertido em cashback, que será creditado em sua conta no prazo de <strong>[Número de dias]</strong> dias úteis após a compra.</p>
+    </section>
+
+    <section>
+        <h2>Consulta de Saldo</h2>
+        <p>Você pode verificar seu saldo de cashback a qualquer momento através do nosso aplicativo ou solicitando informações diretamente em nossa loja.</p>
+    </section>
+
+    <section>
+        <h2>Validade do Saldo</h2>
+        <p>O saldo de cashback possui validade de 45 dias a partir da data de crédito. Fique atento às notificações para não perder suas vantagens!</p>
+    </section>
+
+    <section>
+        <h2>Resgate de Cashback</h2>
+        <p>Considerando que a política de resgate é de 25% sobre o valor da compra:</p>
+        <ul>
+            <li>O saldo acumulado pode ser utilizado como desconto em suas próximas compras na nossa loja.</li>
+            <li>É possível resgatar parcialmente o saldo, utilizando somente uma parte do cashback, caso preferido.</li>
+            <li>Basta informar ao caixa que deseja utilizar seu cashback no momento da compra.</li>
+        </ul>
+        <button>Saiba Mais</button>
+    </section>
+
+    <section>
+        <h2>Restrições</h2>
+        <ul>
+            <li>O saldo de cashback não pode ser trocado por dinheiro ou transferido para outras contas.</li>
+            <li>O saldo de cashback não pode ser combinado com outras promoções ou descontos especiais.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Expiração do Saldo</h2>
+        <p>Se não utilizado dentro do prazo, o saldo de cashback expirará, conforme notificado anteriormente.</p>
+    </section>
+
+    <section>
+        <h2>Dúvidas</h2>
+        <p>Para quaisquer dúvidas ou mais informações, nossa equipe está sempre disponível para ajudar. Aproveite ao máximo seu cashback!</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Zero18 - Moda Masculina. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
